@@ -1,0 +1,31 @@
+Id dataset;Metropolis;Topic;Transportation system;API;Source of data
+2;Lyon;Parking use;Car;Yes;https://data.grandlyon.com/jeux-de-donnees/parcs-relais-reseau-transports-commun-lyonnais-disponibilites-temps-reel/info
+4;Lyon;Parking use;Car;Yes;https://data.grandlyon.com/jeux-de-donnees/parkings-lyon-parc-auto-metropole-lyon-disponibilites-temps-reel/info
+5;Lyon;Transports en commun;"Metro; Tram; Train; Bus";Yes;https://data.grandlyon.com/jeux-de-donnees/prochains-passages-reseau-transports-commun-lyonnais-disponibilites-temps-reel/info
+8;Paris;Commuter flow;"Metro; Tram; Train";No;https://data.ratp.fr/explore/dataset/frequentation-du-pole-de-la-defense-experimentation-lissage-des-heures-de-pointe/information/
+15;Bordeaux;"Commuter flow; Incidents";"Metro; Tram";Yes;https://opendata.bordeaux-metropole.fr/explore/dataset/sv_vehic_p/export/?location=11,44.8342,-0.50365&basemap=jawg.streets&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidml0ZXNzZSIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM2NmMyYTUifV0sInhBeGlzIjoibWRhdGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJ5ZWFyIiwic29ydCI6IiIsImNvbmZpZyI6eyJkYXRhc2V0Ijoic3ZfdmVoaWNfcCIsIm9wdGlvbnMiOnt9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D
+23;Paris;Incidents;"Metro; Tram; Train";No;http://data.cquest.org/openeventdatabase/
+24;Paris;Parking localisation;Electric scooter;No;https://www.data.gouv.fr/fr/datasets/emplacements-de-stationnement-des-trottinettes/ 
+26;Marseille;Commuter flow, Number of engines;Electric scooter;No;https://www.data.gouv.fr/fr/datasets/marseille-trottinettes-electriques/ 
+27;Strasbourg;Commuter flow;Car, Bicycle;Yes;SIRAC - flux trafic en temps réel — Portail Open Data Strasbourg
+28;Strasbourg;Cycle roads;Bicycle;No;Aménagements cyclables au format BNAC — Portail Open Data Strasbourg
+29;Strasbourg;Parking self service bicycle;Bicycle;No;Localisation et occupation des stations de vélos en libre-service VELHOP — Portail Open Data Strasbourg
+30;Strasbourg;Parking use;Car;Yes;Occupation en temps réel des parkings — Portail Open Data Strasbourg
+33;Angers;Commuter flow;Car;Yes;Comptages routiers - Angers Loire Métropole — Opendata Angers Loire Métropole
+34;Angers;Position of transports;"Bus; Tram";Yes;https://data.angers.fr/explore/dataset/bus-tram-position-tr/information/
+36;Angers;Flood;;Yes;Vigicrues - La Maine à Angers Basse Chaîne — Opendata Angers Loire Métropole
+37;Angers;Air pollution;;Yes;Indice de qualité de l'air - Angers Loire Métropole — Opendata Angers Loire Métropole
+38;Angers;Parking use;Car;Yes;Disponibilité dans les Parking à Angers — Opendata Angers Loire Métropole
+41;Toulouse;Commuter flow;Bicycle;No;https://data.toulouse-metropole.fr/explore/dataset/comptages-velos/export/ 
+42;Toulouse;Commuter flow;Walking;No;https://data.toulouse-metropole.fr/explore/dataset/comptages-pietons/export/ 
+43;Toulouse;Commuter flow;Car;No;https://data.toulouse-metropole.fr/explore/dataset/comptages-routiers/table/ 
+44;Bordeaux;Commuter flow;Car;Yes;https://opendata.bordeaux-metropole.fr/explore/dataset/ci_courb_a/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJhcmVhc3BsaW5lcmFuZ2UiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6ImJtX2dpZCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNDQjUxNkQiLCJjaGFydHMiOlt7ImZ1bmMiOiJBVkciLCJ5QXhpcyI6ImJtX3JlZmRlbnNlIn0seyJmdW5jIjoiQVZHIiwieUF4aXMiOiJibV9yZWZleGNlcCJ9XX0seyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiYXJlYXNwbGluZXJhbmdlIiwiZnVuYyI6IkNPVU5UIiwieUF4aXMiOiJibV9naWQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjZmM4ZDYyIiwiY2hhcnRzIjpbeyJmdW5jIjoiQVZHIiwieUF4aXMiOiJibV9yZWZmbHVpZCJ9LHsiZnVuYyI6IkFWRyIsInlBeGlzIjoiYm1fcmVmZGVuc2UifV19LHsiYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6InNwbGluZSIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6ImJtX3ByZXZpc2lvbiIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM1NTU1NTUifSx7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJhcmVhc3BsaW5lcmFuZ2UiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6ImJtX2dpZCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNhNmQ4NTQiLCJjaGFydHMiOlt7ImZ1bmMiOiJBVkciLCJ5QXhpcyI6ImJtX3JlZmZsdWlkIn0seyJmdW5jIjoiQ09OU1RBTlQiLCJ5QXhpcyI6MH1dfSx7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJzcGxpbmUiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJibV9hY3R1ZWwiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjZmZkOTJmIn1dLCJ4QXhpcyI6ImJtX2hldXJlIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoiaG91ciIsInNvcnQiOiIiLCJjb25maWciOnsiZGF0YXNldCI6ImNpX2NvdXJiX2EiLCJvcHRpb25zIjp7fX19XSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZSwic2luZ2xlQXhpcyI6dHJ1ZX0%3D
+46;All France;Workers strike;Train;Yes;https://ressources.data.sncf.com/explore/dataset/mouvements-sociaux-depuis-2002/table/?sort=date_de_debut
+47;All France;Workers strike;Train;Yes;https://ressources.data.sncf.com/explore/dataset/mouvements-sociaux-depuis-1994/table/?sort=date
+48;Paris;Commuter flow;Metro;No;https://data.ratp.fr/explore/dataset/frequentation-du-pole-de-la-defense-experimentation-lissage-des-heures-de-pointe/information/
+56;Strasbourg;Delay at sale desk;Train;Yes;https://ressources.data.sncf.com/explore/dataset/attente-au-guichet/export/ 
+57;Paris;Commuter flow;Train;Yes;https://ressources.data.sncf.com/explore/dataset/comptage-voyageurs-trains-transilien/export/?sort=year 
+58;All France;Incidents;Train;Yes;https://ressources.data.sncf.com/explore/dataset/incidents-securite/export/?sort=date 
+59;Paris;Late;Train;Yes;https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-intercites/table/?sort=date 
+60;All France;Late;Train;Yes;https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-ter/table/?sort=date 
+61;Paris;Late;Train;Yes;https://ressources.data.sncf.com/explore/dataset/ponctualite-mensuelle-transilien/export/?sort=date 
