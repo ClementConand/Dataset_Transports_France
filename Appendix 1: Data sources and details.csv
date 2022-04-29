@@ -7,15 +7,15 @@ Id dataset;Metropolis;Topic;Transportation system;API;Source of data
 23;Paris;Incidents;"Metro; Tram; Train";No;http://data.cquest.org/openeventdatabase/
 24;Paris;Parking localisation;Electric scooter;No;https://www.data.gouv.fr/fr/datasets/emplacements-de-stationnement-des-trottinettes/ 
 26;Marseille;Commuter flow, Number of engines;Electric scooter;No;https://www.data.gouv.fr/fr/datasets/marseille-trottinettes-electriques/ 
-27;Strasbourg;Commuter flow;Car, Bicycle;Yes;SIRAC - flux trafic en temps réel — Portail Open Data Strasbourg
-28;Strasbourg;Cycle roads;Bicycle;No;Aménagements cyclables au format BNAC — Portail Open Data Strasbourg
-29;Strasbourg;Parking self service bicycle;Bicycle;No;Localisation et occupation des stations de vélos en libre-service VELHOP — Portail Open Data Strasbourg
-30;Strasbourg;Parking use;Car;Yes;Occupation en temps réel des parkings — Portail Open Data Strasbourg
-33;Angers;Commuter flow;Car;Yes;Comptages routiers - Angers Loire Métropole — Opendata Angers Loire Métropole
+27;Strasbourg;Commuter flow;Car, Bicycle;Yes;SIRAC - flux trafic en temps rÃ©el â€” Portail Open Data Strasbourg
+28;Strasbourg;Cycle roads;Bicycle;No;AmÃ©nagements cyclables au format BNAC â€” Portail Open Data Strasbourg
+29;Strasbourg;Parking self service bicycle;Bicycle;No;Localisation et occupation des stations de vÃ©los en libre-service VELHOP â€” Portail Open Data Strasbourg
+30;Strasbourg;Parking use;Car;Yes;Occupation en temps rÃ©el des parkings â€” Portail Open Data Strasbourg
+33;Angers;Commuter flow;Car;Yes;Comptages routiers - Angers Loire MÃ©tropole â€” Opendata Angers Loire MÃ©tropole
 34;Angers;Position of transports;"Bus; Tram";Yes;https://data.angers.fr/explore/dataset/bus-tram-position-tr/information/
-36;Angers;Flood;;Yes;Vigicrues - La Maine à Angers Basse Chaîne — Opendata Angers Loire Métropole
-37;Angers;Air pollution;;Yes;Indice de qualité de l'air - Angers Loire Métropole — Opendata Angers Loire Métropole
-38;Angers;Parking use;Car;Yes;Disponibilité dans les Parking à Angers — Opendata Angers Loire Métropole
+36;Angers;Flood;;Yes;Vigicrues - La Maine Ã  Angers Basse ChaÃ®ne â€” Opendata Angers Loire MÃ©tropole
+37;Angers;Air pollution;;Yes;Indice de qualitÃ© de l'air - Angers Loire MÃ©tropole â€” Opendata Angers Loire MÃ©tropole
+38;Angers;Parking use;Car;Yes;DisponibilitÃ© dans les Parking Ã  Angers â€” Opendata Angers Loire MÃ©tropole
 41;Toulouse;Commuter flow;Bicycle;No;https://data.toulouse-metropole.fr/explore/dataset/comptages-velos/export/ 
 42;Toulouse;Commuter flow;Walking;No;https://data.toulouse-metropole.fr/explore/dataset/comptages-pietons/export/ 
 43;Toulouse;Commuter flow;Car;No;https://data.toulouse-metropole.fr/explore/dataset/comptages-routiers/table/ 
